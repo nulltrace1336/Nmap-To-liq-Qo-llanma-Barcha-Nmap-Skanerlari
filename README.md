@@ -1,9 +1,3 @@
-## OWASP Top 10 Video
-
-Videoni Telegram’da tomosha qilishingiz mumkin:  
-[OWASP Top 10 Video](https://t.me/nulltrace1336/7)
-
-
 # 🎬 Ushbu YouTube video rolik
 
 [![YouTube Video](https://img.youtube.com/vi/yhOXm_Kgc10/maxresdefault.jpg)](https://www.youtube.com/watch?v=yhOXm_Kgc10)
